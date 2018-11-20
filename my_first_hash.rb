@@ -12,11 +12,8 @@ def retrieval
 end
 
 def adding
-  manifest["muskets"] = 2
-  manifest["gun powder"] = 4
-
-manifest = shipping_manifest
-shipping_manifest
+  shipping_manifest["muskets"] = 2
+  shipping_manifest["gun powder"] = 4
 end
 
 #
