@@ -16,8 +16,8 @@ def adding
   manifest["gun powder"] = 4
 end
 
-manifest = shipping_manifest 
-shipping_manifest 
+manifest = shipping_manifest
+shipping_manifest
 
 #
 # def retrieval
