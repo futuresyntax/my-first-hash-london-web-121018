@@ -1,3 +1,5 @@
+require "pry"
+
 def my_hash
 my_hash = {"apple pie" => "delicious", "brussel sprouts" => "nasty"}
 end
