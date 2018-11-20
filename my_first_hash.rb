@@ -12,6 +12,7 @@ def retrieval
 end
 
 def adding
+  binding.pry
   shipping_manifest["muskets"] = 2
   shipping_manifest["gun powder"] = 4
 end
