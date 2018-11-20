@@ -14,10 +14,10 @@ end
 def adding
   manifest["muskets"] = 2
   manifest["gun powder"] = 4
-end
 
 manifest = shipping_manifest
 shipping_manifest
+end
 
 #
 # def retrieval
